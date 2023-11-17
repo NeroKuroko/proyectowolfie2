@@ -1,0 +1,221 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 37.5rem;
+}.pregunta-cuatro-espaol-PHC {
+  box-sizing: border-box;
+  padding-bottom: 8.8rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #000000;
+}
+.pregunta-cuatro-espaol-PHC .auto-group-laxi-iKU {
+  margin: 0rem 0.1rem 1.5rem 0rem;
+  box-sizing: border-box;
+  padding: 1.4rem 2.4rem 1.7rem 3.05rem;
+  width: calc(100% - 0.1rem);
+  height: 6.3rem;
+  display: flex;
+  align-items: center;
+  background-color: #111010;
+  flex-shrink: 0;
+}
+.pregunta-cuatro-espaol-PHC .auto-group-laxi-iKU .traducir-frases-de-espaol-idioma-CkS {
+  margin: 0.6rem 5.55rem 0rem 0rem;
+  text-align: center;
+  font-size: 0.8rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #f9f9f9;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pregunta-cuatro-espaol-PHC .auto-group-laxi-iKU .logoayuda-u94 {
+  margin: 0.2rem 0.9rem 0.2rem 0rem;
+  height: calc(100% - 0.4rem);
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.pregunta-cuatro-espaol-PHC .auto-group-laxi-iKU .logoayuda-u94 .baselinehelpwhite24dp-21-3FG {
+  width: 3rem;
+  height: 2.8rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.pregunta-cuatro-espaol-PHC .auto-group-laxi-iKU .component-2-BMU {
+  margin-right: 0.9rem;
+  width: 4.5rem;
+  height: 100%;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.pregunta-cuatro-espaol-PHC .auto-group-laxi-iKU .component-2-BMU .group-1-LEN {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+.pregunta-cuatro-espaol-PHC .auto-group-laxi-iKU .component-2-BMU .group-1-LEN .baselinearrowdropdownwhite24dp-26-Vsx {
+  width: 1.8rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 0;
+  top: 0.5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.pregunta-cuatro-espaol-PHC .auto-group-laxi-iKU .component-2-BMU .group-1-LEN .baselinepersonwhite24dp-51-pfL {
+  width: 3.6rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 0.9rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.pregunta-cuatro-espaol-PHC .auto-group-laxi-iKU .component-1-M9U {
+  margin: 0.2rem 0rem 0.1rem 0rem;
+  height: calc(100% - 0.3rem);
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.pregunta-cuatro-espaol-PHC .auto-group-laxi-iKU .component-1-M9U .baselinemenuwhite24dp-20-Ujt {
+  width: 3.1rem;
+  height: 2.9rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.pregunta-cuatro-espaol-PHC .auto-group-dfdu-Q7k {
+  margin: 0rem 2.3rem 5.2rem 3.95rem;
+  width: calc(100% - 6.25rem);
+  height: 3.1rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.pregunta-cuatro-espaol-PHC .auto-group-dfdu-Q7k .traduce-vbt {
+  margin: 0rem 19.65rem 0.4rem 0rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #38b6ff;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pregunta-cuatro-espaol-PHC .auto-group-dfdu-Q7k .auto-group-612s-dFQ {
+  width: 3.3rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #fffbfb;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-54-LNe.png');
+  flex-shrink: 0;
+}
+.pregunta-cuatro-espaol-PHC .auto-group-ikev-7wG {
+  margin: 0rem 5.1rem 5.9rem 4.8rem;
+  width: calc(100% - 9.9rem);
+  height: 32.3rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.pregunta-cuatro-espaol-PHC .auto-group-ikev-7wG .rectangle-236-qcN {
+  width: 27.6rem;
+  height: 21.8rem;
+  position: absolute;
+  left: 0;
+  top: 10.5rem;
+  background-color: #38b6ff;
+  border-radius: 0.7rem;
+}
+.pregunta-cuatro-espaol-PHC .auto-group-ikev-7wG .image-39-ZYN {
+  width: 10.8rem;
+  height: 10.9rem;
+  position: absolute;
+  left: 0.9rem;
+  top: 0.7rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.pregunta-cuatro-espaol-PHC .auto-group-ikev-7wG .ellipse-53-tqY {
+  width: 14.3rem;
+  height: 9.2rem;
+  position: absolute;
+  left: 10.4rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.pregunta-cuatro-espaol-PHC .auto-group-ikev-7wG .dnde-vives-qEz {
+  width: 9.8rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 12.65rem;
+  top: 3.6rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pregunta-cuatro-espaol-PHC .auto-group-ikev-7wG .traduce--YQJ {
+  width: 5.9rem;
+  height: 1.5rem;
+  position: absolute;
+  left: 2.9rem;
+  top: 12.9rem;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pregunta-cuatro-espaol-PHC .auto-group-jugi-TGN {
+  margin-left: 15.7rem;
+  width: 11.6rem;
+  height: 3.6rem;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #480dc5;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}

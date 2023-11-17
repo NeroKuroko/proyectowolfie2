@@ -1,0 +1,221 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 37.5rem;
+}.pregunta-uno-espaol-pnE {
+  box-sizing: border-box;
+  padding-bottom: 8.8rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #000000;
+}
+.pregunta-uno-espaol-pnE .auto-group-xznn-Yy8 {
+  margin: 0rem 0.1rem 1.5rem 0rem;
+  box-sizing: border-box;
+  padding: 1.4rem 2.4rem 1.7rem 3.05rem;
+  width: calc(100% - 0.1rem);
+  height: 6.3rem;
+  display: flex;
+  align-items: center;
+  background-color: #111010;
+  flex-shrink: 0;
+}
+.pregunta-uno-espaol-pnE .auto-group-xznn-Yy8 .traducir-frases-de-espaol-idioma-Soc {
+  margin: 0.6rem 5.55rem 0rem 0rem;
+  text-align: center;
+  font-size: 0.8rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #f9f9f9;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pregunta-uno-espaol-pnE .auto-group-xznn-Yy8 .logoayuda-9T8 {
+  margin: 0.2rem 0.9rem 0.2rem 0rem;
+  height: calc(100% - 0.4rem);
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.pregunta-uno-espaol-pnE .auto-group-xznn-Yy8 .logoayuda-9T8 .baselinehelpwhite24dp-21-t9p {
+  width: 3rem;
+  height: 2.8rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.pregunta-uno-espaol-pnE .auto-group-xznn-Yy8 .component-2-pJN {
+  margin-right: 0.9rem;
+  width: 4.5rem;
+  height: 100%;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.pregunta-uno-espaol-pnE .auto-group-xznn-Yy8 .component-2-pJN .group-1-N4z {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+.pregunta-uno-espaol-pnE .auto-group-xznn-Yy8 .component-2-pJN .group-1-N4z .baselinearrowdropdownwhite24dp-26-vcJ {
+  width: 1.8rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 0;
+  top: 0.5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.pregunta-uno-espaol-pnE .auto-group-xznn-Yy8 .component-2-pJN .group-1-N4z .baselinepersonwhite24dp-51-rF4 {
+  width: 3.6rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 0.9rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.pregunta-uno-espaol-pnE .auto-group-xznn-Yy8 .component-1-ZvA {
+  margin: 0.2rem 0rem 0.1rem 0rem;
+  height: calc(100% - 0.3rem);
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.pregunta-uno-espaol-pnE .auto-group-xznn-Yy8 .component-1-ZvA .baselinemenuwhite24dp-20-Jsk {
+  width: 3.1rem;
+  height: 2.9rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.pregunta-uno-espaol-pnE .auto-group-s4xk-dv2 {
+  margin: 0rem 2.3rem 5.1rem 3.75rem;
+  width: calc(100% - 6.05rem);
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.pregunta-uno-espaol-pnE .auto-group-s4xk-dv2 .traduce-a4a {
+  margin-right: 19.85rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #38b6ff;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pregunta-uno-espaol-pnE .auto-group-s4xk-dv2 .auto-group-eoes-VhL {
+  margin-bottom: 0.1rem;
+  width: 3.3rem;
+  height: 3.1rem;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #fffbfb;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-54-NQ2.png');
+  flex-shrink: 0;
+}
+.pregunta-uno-espaol-pnE .auto-group-dwle-m94 {
+  margin: 0rem 5.1rem 5.9rem 4.8rem;
+  width: calc(100% - 9.9rem);
+  height: 32.3rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.pregunta-uno-espaol-pnE .auto-group-dwle-m94 .rectangle-236-gWv {
+  width: 27.6rem;
+  height: 21.8rem;
+  position: absolute;
+  left: 0;
+  top: 10.5rem;
+  background-color: #38b6ff;
+  border-radius: 0.7rem;
+}
+.pregunta-uno-espaol-pnE .auto-group-dwle-m94 .image-39-orS {
+  width: 10.8rem;
+  height: 10.9rem;
+  position: absolute;
+  left: 0.9rem;
+  top: 0.7rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.pregunta-uno-espaol-pnE .auto-group-dwle-m94 .ellipse-53-jzz {
+  width: 14.3rem;
+  height: 9.2rem;
+  position: absolute;
+  left: 10.4rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.pregunta-uno-espaol-pnE .auto-group-dwle-m94 .cmo-estas-64r {
+  width: 9.4rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 12.9rem;
+  top: 3.6rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pregunta-uno-espaol-pnE .auto-group-dwle-m94 .traduce--bXQ {
+  width: 5.9rem;
+  height: 1.5rem;
+  position: absolute;
+  left: 2.9rem;
+  top: 12.9rem;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pregunta-uno-espaol-pnE .auto-group-ksej-Vcn {
+  margin-left: 15.7rem;
+  width: 11.6rem;
+  height: 3.6rem;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #480dc5;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}

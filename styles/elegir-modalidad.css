@@ -1,0 +1,212 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 37.5rem;
+}.elegir-modalidad-4mg {
+  box-sizing: border-box;
+  padding-bottom: 17.5rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #000000;
+}
+.elegir-modalidad-4mg .auto-group-4iu8-oUN {
+  margin: 0rem 0.1rem 6.5rem 0rem;
+  box-sizing: border-box;
+  padding: 1.4rem 2.4rem 1.3rem 2rem;
+  width: calc(100% - 0.1rem);
+  height: 6.3rem;
+  display: flex;
+  align-items: center;
+  background-color: #111010;
+  flex-shrink: 0;
+}
+.elegir-modalidad-4mg .auto-group-4iu8-oUN .baselinearrowbackwhite24dp-1-h3x {
+  margin: 0.3rem 17.3rem 0rem 0rem;
+  width: 3.4rem;
+  height: 3.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.elegir-modalidad-4mg .auto-group-4iu8-oUN .logoayuda-D2J {
+  margin: 0.2rem 0.9rem 0.6rem 0rem;
+  height: calc(100% - 0.8rem);
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.elegir-modalidad-4mg .auto-group-4iu8-oUN .logoayuda-D2J .baselinehelpwhite24dp-21-Lci {
+  width: 3rem;
+  height: 2.8rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.elegir-modalidad-4mg .auto-group-4iu8-oUN .component-2-54W {
+  margin: 0rem 0.9rem 0.4rem 0rem;
+  width: 4.5rem;
+  height: 3.2rem;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.elegir-modalidad-4mg .auto-group-4iu8-oUN .component-2-54W .group-1-QMg {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+.elegir-modalidad-4mg .auto-group-4iu8-oUN .component-2-54W .group-1-QMg .baselinearrowdropdownwhite24dp-26-N3c {
+  width: 1.8rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 0;
+  top: 0.5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.elegir-modalidad-4mg .auto-group-4iu8-oUN .component-2-54W .group-1-QMg .baselinepersonwhite24dp-51-tGr {
+  width: 3.6rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 0.9rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.elegir-modalidad-4mg .auto-group-4iu8-oUN .component-1-Qkz {
+  margin: 0.2rem 0rem 0.5rem 0rem;
+  height: calc(100% - 0.7rem);
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.elegir-modalidad-4mg .auto-group-4iu8-oUN .component-1-Qkz .baselinemenuwhite24dp-20-9ia {
+  width: 3.1rem;
+  height: 2.9rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.elegir-modalidad-4mg .modalidad-de-juego-fwp {
+  margin: 0rem 0rem 0.9rem 1.2rem;
+  text-align: center;
+  font-size: 2.6rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #38b6ff;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.elegir-modalidad-4mg .elije-la-forma-de-gugar-yxW {
+  margin: 0rem 0.2rem 4.2rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #fcfffe;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.elegir-modalidad-4mg .auto-group-eawl-tpa {
+  margin: 0rem 4.2rem 4.9rem 5.3rem;
+  box-sizing: border-box;
+  padding: 0.3rem 5rem 0rem 1.1rem;
+  width: calc(100% - 9.5rem);
+  display: flex;
+  align-items: center;
+  background-color: #38b6ff;
+  border-radius: 0.7rem;
+  flex-shrink: 0;
+}
+.elegir-modalidad-4mg .auto-group-eawl-tpa .rectangle-215-CKU {
+  margin-right: 1.6rem;
+  width: 4.9rem;
+  height: 5.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.elegir-modalidad-4mg .auto-group-eawl-tpa .traducir-frases-de-espaol-Kez {
+  margin-bottom: 0.3rem;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.elegir-modalidad-4mg .auto-group-n7gn-DEa {
+  margin: 0rem 4.5rem 4.7rem 5rem;
+  box-sizing: border-box;
+  padding: 0.3rem 5.3rem 0.2rem 0.3rem;
+  width: calc(100% - 9.5rem);
+  display: flex;
+  align-items: center;
+  background-color: #38b6ff;
+  border-radius: 0.7rem;
+  flex-shrink: 0;
+}
+.elegir-modalidad-4mg .auto-group-n7gn-DEa .rectangle-217-ix2 {
+  margin-right: 2.3rem;
+  width: 4.9rem;
+  height: 5.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.elegir-modalidad-4mg .auto-group-n7gn-DEa .traducir-frases-del-idioma-T8v {
+  margin-bottom: 0.7rem;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.elegir-modalidad-4mg .auto-group-stes-YgA {
+  margin: 0rem 4.5rem 0rem 5rem;
+  box-sizing: border-box;
+  padding: 0rem 13.2rem 0rem 0.9rem;
+  width: calc(100% - 9.5rem);
+  height: 5.7rem;
+  display: flex;
+  align-items: center;
+  background-color: #38b6ff;
+  border-radius: 0.7rem;
+  flex-shrink: 0;
+}
+.elegir-modalidad-4mg .auto-group-stes-YgA .rectangle-230-TRk {
+  margin: 0rem 1.8rem 0.5rem 0rem;
+  width: 5rem;
+  height: 5.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.elegir-modalidad-4mg .auto-group-stes-YgA .vocabulario-mhL {
+  margin-bottom: 0.8rem;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}

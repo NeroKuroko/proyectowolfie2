@@ -1,0 +1,124 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 15.8rem;
+}.component-1-2vn {
+  padding: 3.8rem 1.5rem 2.2rem 2.5rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  border-radius: 0.5rem;
+  box-sizing: border-box;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  border: dashed 0.1rem #9747ff;
+
+  .activefalse-xZY {
+    margin: 0rem 5.7rem 1.9rem 0rem;
+    cursor: pointer;
+    flex-shrink: 0;
+
+    .baselinemenuwhite24dp-20-uDt {
+      object-fit: cover;
+      vertical-align: top;
+      width: 3.1rem;
+      height: 2.9rem;
+    }
+  }
+  .activetrue-Rxv {
+    box-sizing: border-box;
+    padding-bottom: 5.3rem;
+    width: 100%;
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+
+    .rectangle-n2n {
+      flex-shrink: 0;
+      margin: 0rem 0rem 0.8rem 1.5rem;
+      width: 3.1rem;
+      height: 2.9rem;
+      object-fit: cover;
+      vertical-align: top;
+    }
+    .frame-4-754 {
+      flex-direction: column;
+      flex-shrink: 0;
+      display: flex;
+
+      .menu1-Tuc {
+        border-radius: 0.8rem;
+        cursor: pointer;
+        font-family: Lexend, 'Source Sans Pro';
+        margin-bottom: 0.2rem;
+        height: 1.5rem;
+        font-weight: 400;
+        line-height: 1.25;
+        width: 5rem;
+        align-items: center;
+        justify-content: center;
+        font-size: 0.7rem;
+        color: #ffffff;
+        white-space: nowrap;
+        background-color: #38b6ff;
+        flex-shrink: 0;
+        display: flex;
+      }
+      .menu1-9XY {
+        padding: 0.05rem 1.3rem 0.05rem 1rem;
+        cursor: pointer;
+        border-radius: 0.8rem;
+        flex-shrink: 0;
+        margin-bottom: 0.4rem;
+        box-sizing: border-box;
+        width: 5rem;
+        height: 1.5rem;
+        background-color: #38b6ff;
+
+        .avance-4eW {
+          display: flex;
+          justify-content: center;
+          line-height: 1.25;
+          color: #ffffff;
+          font-family: Lexend, 'Source Sans Pro';
+          max-width: 2.7rem;
+          align-items: center;
+          font-size: 0.5rem;
+          font-weight: 400;
+        }
+      }
+      .menu1-mYv {
+        margin-left: 0.1rem;
+        width: 5rem;
+        line-height: 1.25;
+        font-family: Lexend, 'Source Sans Pro';
+        height: 1.5rem;
+        cursor: pointer;
+        white-space: nowrap;
+        border-radius: 0.8rem;
+        flex-shrink: 0;
+        display: flex;
+        align-items: center;
+        font-size: 0.5rem;
+        font-weight: 400;
+        background-color: #38b6ff;
+        justify-content: center;
+        color: #ffffff;
+      }
+    }
+  }
+}

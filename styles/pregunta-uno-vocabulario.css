@@ -1,0 +1,221 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 37.5rem;
+}.pregunta-uno-vocabulario-gUi {
+  box-sizing: border-box;
+  padding-bottom: 8.8rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #000000;
+}
+.pregunta-uno-vocabulario-gUi .auto-group-hzq8-QvW {
+  margin: 0rem 0.1rem 1.2rem 0rem;
+  box-sizing: border-box;
+  padding: 1.4rem 2.4rem 1.7rem 5.7rem;
+  width: calc(100% - 0.1rem);
+  height: 6.3rem;
+  display: flex;
+  align-items: center;
+  background-color: #111010;
+  flex-shrink: 0;
+}
+.pregunta-uno-vocabulario-gUi .auto-group-hzq8-QvW .vocabulario-idioma-Vwx {
+  margin: 0.6rem 8.2rem 0rem 0rem;
+  text-align: center;
+  font-size: 0.8rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #f9f9f9;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pregunta-uno-vocabulario-gUi .auto-group-hzq8-QvW .logoayuda-bk6 {
+  margin: 0.2rem 0.9rem 0.2rem 0rem;
+  height: calc(100% - 0.4rem);
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.pregunta-uno-vocabulario-gUi .auto-group-hzq8-QvW .logoayuda-bk6 .baselinehelpwhite24dp-21-7TY {
+  width: 3rem;
+  height: 2.8rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.pregunta-uno-vocabulario-gUi .auto-group-hzq8-QvW .component-2-pcr {
+  margin-right: 0.9rem;
+  width: 4.5rem;
+  height: 100%;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.pregunta-uno-vocabulario-gUi .auto-group-hzq8-QvW .component-2-pcr .group-1-wSa {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+.pregunta-uno-vocabulario-gUi .auto-group-hzq8-QvW .component-2-pcr .group-1-wSa .baselinearrowdropdownwhite24dp-26-HFY {
+  width: 1.8rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 0;
+  top: 0.5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.pregunta-uno-vocabulario-gUi .auto-group-hzq8-QvW .component-2-pcr .group-1-wSa .baselinepersonwhite24dp-51-b1L {
+  width: 3.6rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 0.9rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.pregunta-uno-vocabulario-gUi .auto-group-hzq8-QvW .component-1-uni {
+  margin: 0.2rem 0rem 0.1rem 0rem;
+  height: calc(100% - 0.3rem);
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.pregunta-uno-vocabulario-gUi .auto-group-hzq8-QvW .component-1-uni .baselinemenuwhite24dp-20-FLn {
+  width: 3.1rem;
+  height: 2.9rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.pregunta-uno-vocabulario-gUi .auto-group-vs8e-xkz {
+  margin: 0rem 1.5rem 5.5rem 3.95rem;
+  width: calc(100% - 5.45rem);
+  height: 3.1rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.pregunta-uno-vocabulario-gUi .auto-group-vs8e-xkz .traduce-UzE {
+  margin: 0.2rem 20.45rem 0rem 0rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #38b6ff;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pregunta-uno-vocabulario-gUi .auto-group-vs8e-xkz .auto-group-8cli-PLW {
+  width: 3.3rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #fffbfb;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-54-7WA.png');
+  flex-shrink: 0;
+}
+.pregunta-uno-vocabulario-gUi .auto-group-6a7l-5DL {
+  margin: 0rem 5.1rem 5.9rem 4.8rem;
+  width: calc(100% - 9.9rem);
+  height: 32.3rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.pregunta-uno-vocabulario-gUi .auto-group-6a7l-5DL .rectangle-236-bSa {
+  width: 27.6rem;
+  height: 21.8rem;
+  position: absolute;
+  left: 0;
+  top: 10.5rem;
+  background-color: #38b6ff;
+  border-radius: 0.7rem;
+}
+.pregunta-uno-vocabulario-gUi .auto-group-6a7l-5DL .image-39-7vi {
+  width: 10.8rem;
+  height: 10.9rem;
+  position: absolute;
+  left: 0.9rem;
+  top: 0.7rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.pregunta-uno-vocabulario-gUi .auto-group-6a7l-5DL .ellipse-53-45G {
+  width: 14.3rem;
+  height: 9.2rem;
+  position: absolute;
+  left: 10.4rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.pregunta-uno-vocabulario-gUi .auto-group-6a7l-5DL .pastel-zUi {
+  width: 4.2rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 15.5rem;
+  top: 3.6rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pregunta-uno-vocabulario-gUi .auto-group-6a7l-5DL .traduce--JVQ {
+  width: 5.9rem;
+  height: 1.5rem;
+  position: absolute;
+  left: 2.9rem;
+  top: 12.9rem;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pregunta-uno-vocabulario-gUi .auto-group-a5k6-DMU {
+  margin-left: 15.7rem;
+  width: 11.6rem;
+  height: 3.6rem;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #480dc5;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}

@@ -1,0 +1,220 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 37.5rem;
+}.pregunta-dos-idioma-A9Y {
+  box-sizing: border-box;
+  padding-bottom: 8.8rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #000000;
+}
+.pregunta-dos-idioma-A9Y .auto-group-wkra-gta {
+  margin: 0rem 0.1rem 1.2rem 0rem;
+  box-sizing: border-box;
+  padding: 1.4rem 2.4rem 1.7rem 2.8rem;
+  width: calc(100% - 0.1rem);
+  height: 6.3rem;
+  display: flex;
+  align-items: center;
+  background-color: #111010;
+  flex-shrink: 0;
+}
+.pregunta-dos-idioma-A9Y .auto-group-wkra-gta .traducir-frases-de-idioma-espaol-y6z {
+  margin: 0.6rem 5.3rem 0rem 0rem;
+  text-align: center;
+  font-size: 0.8rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #f9f9f9;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pregunta-dos-idioma-A9Y .auto-group-wkra-gta .logoayuda-TH4 {
+  margin: 0.2rem 0.9rem 0.2rem 0rem;
+  height: calc(100% - 0.4rem);
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.pregunta-dos-idioma-A9Y .auto-group-wkra-gta .logoayuda-TH4 .baselinehelpwhite24dp-21-Bir {
+  width: 3rem;
+  height: 2.8rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.pregunta-dos-idioma-A9Y .auto-group-wkra-gta .component-2-7Mc {
+  margin-right: 0.9rem;
+  width: 4.5rem;
+  height: 100%;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.pregunta-dos-idioma-A9Y .auto-group-wkra-gta .component-2-7Mc .group-1-fP8 {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+.pregunta-dos-idioma-A9Y .auto-group-wkra-gta .component-2-7Mc .group-1-fP8 .baselinearrowdropdownwhite24dp-26-2Ua {
+  width: 1.8rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 0;
+  top: 0.5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.pregunta-dos-idioma-A9Y .auto-group-wkra-gta .component-2-7Mc .group-1-fP8 .baselinepersonwhite24dp-51-M14 {
+  width: 3.6rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 0.9rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.pregunta-dos-idioma-A9Y .auto-group-wkra-gta .component-1-4w4 {
+  margin: 0.2rem 0rem 0.1rem 0rem;
+  height: calc(100% - 0.3rem);
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.pregunta-dos-idioma-A9Y .auto-group-wkra-gta .component-1-4w4 .baselinemenuwhite24dp-20-ote {
+  width: 3.1rem;
+  height: 2.9rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.pregunta-dos-idioma-A9Y .auto-group-pzxi-Xpe {
+  margin: 0rem 1.5rem 5.5rem 3.95rem;
+  width: calc(100% - 5.45rem);
+  height: 3.1rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.pregunta-dos-idioma-A9Y .auto-group-pzxi-Xpe .traduce-Swc {
+  margin: 0.2rem 20.45rem 0rem 0rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #38b6ff;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pregunta-dos-idioma-A9Y .auto-group-pzxi-Xpe .auto-group-8wd4-A6v {
+  width: 3.3rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #fffbfb;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-54-LNW.png');
+  flex-shrink: 0;
+}
+.pregunta-dos-idioma-A9Y .auto-group-mgqy-Eca {
+  margin: 0rem 5.1rem 5.9rem 4.8rem;
+  width: calc(100% - 9.9rem);
+  height: 32.3rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.pregunta-dos-idioma-A9Y .auto-group-mgqy-Eca .rectangle-236-Lfc {
+  width: 27.6rem;
+  height: 21.8rem;
+  position: absolute;
+  left: 0;
+  top: 10.5rem;
+  background-color: #38b6ff;
+  border-radius: 0.7rem;
+}
+.pregunta-dos-idioma-A9Y .auto-group-mgqy-Eca .image-39-fSz {
+  width: 10.8rem;
+  height: 10.9rem;
+  position: absolute;
+  left: 0.9rem;
+  top: 0.7rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.pregunta-dos-idioma-A9Y .auto-group-mgqy-Eca .ellipse-53-zkA {
+  width: 14.3rem;
+  height: 9.2rem;
+  position: absolute;
+  left: 10.4rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.pregunta-dos-idioma-A9Y .auto-group-mgqy-Eca .what-is-your-name-Xzz {
+  width: 8.6rem;
+  height: 3.5rem;
+  position: absolute;
+  left: 13.55rem;
+  top: 2.6rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Lexend, 'Source Sans Pro';
+}
+.pregunta-dos-idioma-A9Y .auto-group-mgqy-Eca .traduce--qVt {
+  width: 5.9rem;
+  height: 1.5rem;
+  position: absolute;
+  left: 2.9rem;
+  top: 12.9rem;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pregunta-dos-idioma-A9Y .auto-group-nrhl-LhY {
+  margin-left: 15.7rem;
+  width: 11.6rem;
+  height: 3.6rem;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #480dc5;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}

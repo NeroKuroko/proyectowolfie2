@@ -1,0 +1,202 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 37.5rem;
+}.puntaje-ywx {
+  width: 100%;
+  height: 66.7rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #000000;
+}
+.puntaje-ywx .auto-group-zbzk-XMC {
+  box-sizing: border-box;
+  padding: 1.4rem 2.4rem 1.7rem 22.7rem;
+  width: 37.5rem;
+  height: 6.3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  column-gap: 0.9rem;
+  align-items: center;
+  background-color: #111010;
+}
+.puntaje-ywx .auto-group-zbzk-XMC .logoayuda-vw4 {
+  margin: 0.2rem 0;
+  height: calc(100% - 0.4rem);
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.puntaje-ywx .auto-group-zbzk-XMC .logoayuda-vw4 .baselinehelpwhite24dp-21-1xW {
+  width: 3rem;
+  height: 2.8rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.puntaje-ywx .auto-group-zbzk-XMC .component-2-4A6 {
+  width: 4.5rem;
+  height: 100%;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.puntaje-ywx .auto-group-zbzk-XMC .component-2-4A6 .group-1-AD8 {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+.puntaje-ywx .auto-group-zbzk-XMC .component-2-4A6 .group-1-AD8 .baselinearrowdropdownwhite24dp-26-hD4 {
+  width: 1.8rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 0;
+  top: 0.5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.puntaje-ywx .auto-group-zbzk-XMC .component-2-4A6 .group-1-AD8 .baselinepersonwhite24dp-51-kh8 {
+  width: 3.6rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 0.9rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.puntaje-ywx .auto-group-zbzk-XMC .component-1-cUS {
+  margin: 0.2rem 0rem 0.1rem 0rem;
+  height: calc(100% - 0.3rem);
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.puntaje-ywx .auto-group-zbzk-XMC .component-1-cUS .baselinemenuwhite24dp-20-tgr {
+  width: 3.1rem;
+  height: 2.9rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.puntaje-ywx .felicidades-M4e {
+  width: 15.5rem;
+  height: 3.3rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 9.8rem;
+  text-align: center;
+  font-size: 2.6rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #38b6ff;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.puntaje-ywx .tu-puntaje-es-de-tyg {
+  width: 12.1rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 13.2rem;
+  top: 13.7rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #fcfffe;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.puntaje-ywx .auto-group-4qbc-utn {
+  width: 20rem;
+  height: 18.7rem;
+  position: absolute;
+  left: 8.4rem;
+  top: 19.1rem;
+}
+.puntaje-ywx .auto-group-4qbc-utn .item-20-yNr {
+  width: 2.8rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 8.8rem;
+  top: 8.2rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #fcfffe;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.puntaje-ywx .auto-group-4qbc-utn .image-48-1KY {
+  width: 20rem;
+  height: 18.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.puntaje-ywx .auto-group-nlqx-KLE {
+  width: 18.3rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 9.2rem;
+  top: 44.5rem;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #480dc5;
+  border-radius: 1rem;
+}
+.puntaje-ywx .auto-group-r6ae-4x2 {
+  width: 18.3rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 9.2rem;
+  top: 50.4rem;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #480dc5;
+  border-radius: 1rem;
+}
+.puntaje-ywx .auto-group-frzq-HJz {
+  width: 11.6rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 24.2rem;
+  top: 60.9rem;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #480dc5;
+  border-radius: 1rem;
+}

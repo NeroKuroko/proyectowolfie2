@@ -1,0 +1,221 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 37.5rem;
+}.pregunta-cuatro-vocabulario-dyt {
+  box-sizing: border-box;
+  padding-bottom: 8.8rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #000000;
+}
+.pregunta-cuatro-vocabulario-dyt .auto-group-zozj-m4W {
+  margin: 0rem 0.1rem 1.2rem 0rem;
+  box-sizing: border-box;
+  padding: 1.4rem 2.4rem 1.7rem 5.7rem;
+  width: calc(100% - 0.1rem);
+  height: 6.3rem;
+  display: flex;
+  align-items: center;
+  background-color: #111010;
+  flex-shrink: 0;
+}
+.pregunta-cuatro-vocabulario-dyt .auto-group-zozj-m4W .vocabulario-idioma-TCE {
+  margin: 0.6rem 8.2rem 0rem 0rem;
+  text-align: center;
+  font-size: 0.8rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #f9f9f9;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pregunta-cuatro-vocabulario-dyt .auto-group-zozj-m4W .logoayuda-9qk {
+  margin: 0.2rem 0.9rem 0.2rem 0rem;
+  height: calc(100% - 0.4rem);
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.pregunta-cuatro-vocabulario-dyt .auto-group-zozj-m4W .logoayuda-9qk .baselinehelpwhite24dp-21-gan {
+  width: 3rem;
+  height: 2.8rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.pregunta-cuatro-vocabulario-dyt .auto-group-zozj-m4W .component-2-RHU {
+  margin-right: 0.9rem;
+  width: 4.5rem;
+  height: 100%;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.pregunta-cuatro-vocabulario-dyt .auto-group-zozj-m4W .component-2-RHU .group-1-AVx {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+.pregunta-cuatro-vocabulario-dyt .auto-group-zozj-m4W .component-2-RHU .group-1-AVx .baselinearrowdropdownwhite24dp-26-vV8 {
+  width: 1.8rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 0;
+  top: 0.5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.pregunta-cuatro-vocabulario-dyt .auto-group-zozj-m4W .component-2-RHU .group-1-AVx .baselinepersonwhite24dp-51-eR8 {
+  width: 3.6rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 0.9rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.pregunta-cuatro-vocabulario-dyt .auto-group-zozj-m4W .component-1-mVk {
+  margin: 0.2rem 0rem 0.1rem 0rem;
+  height: calc(100% - 0.3rem);
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.pregunta-cuatro-vocabulario-dyt .auto-group-zozj-m4W .component-1-mVk .baselinemenuwhite24dp-20-6Y2 {
+  width: 3.1rem;
+  height: 2.9rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.pregunta-cuatro-vocabulario-dyt .auto-group-rhuu-DMk {
+  margin: 0rem 1.5rem 5.5rem 3.95rem;
+  width: calc(100% - 5.45rem);
+  height: 3.1rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.pregunta-cuatro-vocabulario-dyt .auto-group-rhuu-DMk .traduce-8Ui {
+  margin: 0.2rem 20.45rem 0rem 0rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #38b6ff;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pregunta-cuatro-vocabulario-dyt .auto-group-rhuu-DMk .auto-group-3sga-Ene {
+  width: 3.3rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #fffbfb;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-54-Cjk.png');
+  flex-shrink: 0;
+}
+.pregunta-cuatro-vocabulario-dyt .auto-group-zz3c-vfU {
+  margin: 0rem 5.1rem 5.9rem 4.8rem;
+  width: calc(100% - 9.9rem);
+  height: 32.3rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.pregunta-cuatro-vocabulario-dyt .auto-group-zz3c-vfU .rectangle-236-3EJ {
+  width: 27.6rem;
+  height: 21.8rem;
+  position: absolute;
+  left: 0;
+  top: 10.5rem;
+  background-color: #38b6ff;
+  border-radius: 0.7rem;
+}
+.pregunta-cuatro-vocabulario-dyt .auto-group-zz3c-vfU .image-39-aEE {
+  width: 10.8rem;
+  height: 10.9rem;
+  position: absolute;
+  left: 0.9rem;
+  top: 0.7rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.pregunta-cuatro-vocabulario-dyt .auto-group-zz3c-vfU .ellipse-53-Vrz {
+  width: 14.3rem;
+  height: 9.2rem;
+  position: absolute;
+  left: 10.4rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.pregunta-cuatro-vocabulario-dyt .auto-group-zz3c-vfU .familia-Rke {
+  width: 5.1rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 15rem;
+  top: 3.6rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pregunta-cuatro-vocabulario-dyt .auto-group-zz3c-vfU .traduce--wDC {
+  width: 5.9rem;
+  height: 1.5rem;
+  position: absolute;
+  left: 2.9rem;
+  top: 12.9rem;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pregunta-cuatro-vocabulario-dyt .auto-group-iwgs-2kS {
+  margin-left: 15.7rem;
+  width: 11.6rem;
+  height: 3.6rem;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #480dc5;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}

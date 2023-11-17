@@ -1,0 +1,62 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 15.8rem;
+}.menu2-wcW {
+  display: flex;
+  flex-direction: column;
+  border: dashed 0.1rem #9747ff;
+  box-sizing: border-box;
+  padding: 2.4rem 2rem 3.8rem 2rem;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+  border-radius: 0.5rem;
+
+  .active-false-4h8 {
+    justify-content: center;
+    line-height: 1.25;
+    font-family: Lexend, 'Source Sans Pro';
+    margin-bottom: 3.4rem;
+    font-weight: 400;
+    flex-shrink: 0;
+    cursor: pointer;
+    align-items: center;
+    color: #ffffff;
+    background-color: #38b6ff;
+    display: flex;
+    height: 1.5rem;
+    font-size: 0.7rem;
+    white-space: nowrap;
+    border-radius: 0.8rem;
+    width: 5rem;
+  }
+  .active-true-Z86 {
+    width: 5rem;
+    white-space: nowrap;
+    align-items: center;
+    color: #ffffff;
+    font-family: Lexend, 'Source Sans Pro';
+    background-color: #479aca;
+    border-radius: 0.8rem;
+    font-size: 0.75rem;
+    font-weight: 400;
+    height: 1.5rem;
+    display: flex;
+    justify-content: center;
+    line-height: 1.25;
+    flex-shrink: 0;
+  }
+}

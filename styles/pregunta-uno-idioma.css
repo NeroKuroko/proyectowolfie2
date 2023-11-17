@@ -1,0 +1,221 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 37.5rem;
+}.pregunta-uno-idioma-9cN {
+  box-sizing: border-box;
+  padding-bottom: 8.8rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #000000;
+}
+.pregunta-uno-idioma-9cN .auto-group-pvai-gMQ {
+  margin: 0rem 0.1rem 1.2rem 0rem;
+  box-sizing: border-box;
+  padding: 1.4rem 2.7rem 1.7rem 2.8rem;
+  width: calc(100% - 0.1rem);
+  height: 6.3rem;
+  display: flex;
+  align-items: center;
+  background-color: #111010;
+  flex-shrink: 0;
+}
+.pregunta-uno-idioma-9cN .auto-group-pvai-gMQ .traducir-frases-de-idioma-espaol-NEE {
+  margin: 0.6rem 5.3rem 0rem 0rem;
+  text-align: center;
+  font-size: 0.8rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #f9f9f9;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pregunta-uno-idioma-9cN .auto-group-pvai-gMQ .logoayuda-4cr {
+  margin: 0.2rem 0.9rem 0.2rem 0rem;
+  height: calc(100% - 0.4rem);
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.pregunta-uno-idioma-9cN .auto-group-pvai-gMQ .logoayuda-4cr .baselinehelpwhite24dp-21-CUA {
+  width: 3rem;
+  height: 2.8rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.pregunta-uno-idioma-9cN .auto-group-pvai-gMQ .component-2-8ci {
+  margin-right: 0.6rem;
+  width: 4.5rem;
+  height: 100%;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.pregunta-uno-idioma-9cN .auto-group-pvai-gMQ .component-2-8ci .group-1-tLz {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+.pregunta-uno-idioma-9cN .auto-group-pvai-gMQ .component-2-8ci .group-1-tLz .baselinearrowdropdownwhite24dp-26-eqx {
+  width: 1.8rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 0;
+  top: 0.5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.pregunta-uno-idioma-9cN .auto-group-pvai-gMQ .component-2-8ci .group-1-tLz .baselinepersonwhite24dp-51-Nmx {
+  width: 3.6rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 0.9rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.pregunta-uno-idioma-9cN .auto-group-pvai-gMQ .component-1-hpE {
+  margin: 0.2rem 0rem 0.1rem 0rem;
+  height: calc(100% - 0.3rem);
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.pregunta-uno-idioma-9cN .auto-group-pvai-gMQ .component-1-hpE .baselinemenuwhite24dp-20-37Q {
+  width: 3.1rem;
+  height: 2.9rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.pregunta-uno-idioma-9cN .auto-group-9agr-N9g {
+  margin: 0rem 1.5rem 5.5rem 3.95rem;
+  width: calc(100% - 5.45rem);
+  height: 3.1rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.pregunta-uno-idioma-9cN .auto-group-9agr-N9g .traduce-ggA {
+  margin: 0.2rem 20.45rem 0rem 0rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #38b6ff;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pregunta-uno-idioma-9cN .auto-group-9agr-N9g .auto-group-zues-zgr {
+  width: 3.3rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #fffbfb;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-54-Us4.png');
+  flex-shrink: 0;
+}
+.pregunta-uno-idioma-9cN .auto-group-xt14-t1Y {
+  margin: 0rem 5.1rem 5.9rem 4.8rem;
+  width: calc(100% - 9.9rem);
+  height: 32.3rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.pregunta-uno-idioma-9cN .auto-group-xt14-t1Y .rectangle-236-CY2 {
+  width: 27.6rem;
+  height: 21.8rem;
+  position: absolute;
+  left: 0;
+  top: 10.5rem;
+  background-color: #38b6ff;
+  border-radius: 0.7rem;
+}
+.pregunta-uno-idioma-9cN .auto-group-xt14-t1Y .image-39-jXx {
+  width: 10.8rem;
+  height: 10.9rem;
+  position: absolute;
+  left: 0.9rem;
+  top: 0.7rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.pregunta-uno-idioma-9cN .auto-group-xt14-t1Y .ellipse-53-G26 {
+  width: 14.3rem;
+  height: 9.2rem;
+  position: absolute;
+  left: 10.4rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.pregunta-uno-idioma-9cN .auto-group-xt14-t1Y .how-are-you-Q8J {
+  width: 9.3rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 12.95rem;
+  top: 3.6rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pregunta-uno-idioma-9cN .auto-group-xt14-t1Y .traduce--JUa {
+  width: 5.9rem;
+  height: 1.5rem;
+  position: absolute;
+  left: 2.9rem;
+  top: 12.9rem;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pregunta-uno-idioma-9cN .auto-group-rp9c-byU {
+  margin-left: 15.7rem;
+  width: 11.6rem;
+  height: 3.6rem;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #480dc5;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}

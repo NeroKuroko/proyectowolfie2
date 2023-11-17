@@ -1,0 +1,234 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 37.5rem;
+}.elegir-idioma-CdY {
+  box-sizing: border-box;
+  padding-bottom: 11.1rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #000000;
+}
+.elegir-idioma-CdY .auto-group-atua-Xvi {
+  margin: 0rem 0.1rem 6rem 0rem;
+  box-sizing: border-box;
+  padding: 1.4rem 2.4rem 1.3rem 2.4rem;
+  width: calc(100% - 0.1rem);
+  height: 6.3rem;
+  display: flex;
+  align-items: center;
+  background-color: #111010;
+  flex-shrink: 0;
+}
+.elegir-idioma-CdY .auto-group-atua-Xvi .baselinearrowbackwhite24dp-2-DoY {
+  margin: 0.3rem 16.9rem 0rem 0rem;
+  width: 3.4rem;
+  height: 3.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.elegir-idioma-CdY .auto-group-atua-Xvi .logoayuda-Kra {
+  margin: 0.2rem 0.9rem 0.6rem 0rem;
+  height: calc(100% - 0.8rem);
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.elegir-idioma-CdY .auto-group-atua-Xvi .logoayuda-Kra .baselinehelpwhite24dp-21-Tht {
+  width: 3rem;
+  height: 2.8rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.elegir-idioma-CdY .auto-group-atua-Xvi .component-2-oFx {
+  margin: 0rem 0.9rem 0.4rem 0rem;
+  width: 4.5rem;
+  height: 3.2rem;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.elegir-idioma-CdY .auto-group-atua-Xvi .component-2-oFx .group-1-w7G {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+.elegir-idioma-CdY .auto-group-atua-Xvi .component-2-oFx .group-1-w7G .baselinearrowdropdownwhite24dp-26-VuU {
+  width: 1.8rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 0;
+  top: 0.5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.elegir-idioma-CdY .auto-group-atua-Xvi .component-2-oFx .group-1-w7G .baselinepersonwhite24dp-51-cz6 {
+  width: 3.6rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 0.9rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.elegir-idioma-CdY .auto-group-atua-Xvi .component-kKc {
+  margin: 0.2rem 0rem 0.5rem 0rem;
+  height: calc(100% - 0.7rem);
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.elegir-idioma-CdY .auto-group-atua-Xvi .component-kKc .baselinemenuwhite24dp-20-tRp {
+  width: 3.1rem;
+  height: 2.9rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.elegir-idioma-CdY .talk-to-the-world-Qux {
+  margin: 0rem 0rem 1.5rem 1.8rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #38b6ff;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.elegir-idioma-CdY .talk-to-the-world-Qux .talk-to-the-world-Qux-sub-0 {
+  font-size: 2.6rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #38b6ff;
+  font-family: Lexend, 'Source Sans Pro';
+}
+.elegir-idioma-CdY .talk-to-the-world-Qux .talk-to-the-world-Qux-sub-1 {
+}
+.elegir-idioma-CdY .t-eliges-el-idioma-F3Q {
+  margin: 0rem 0rem 3.9rem 0.7rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #fcfffe;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.elegir-idioma-CdY .auto-group-pmce-Xmc {
+  margin: 0rem 4rem 5.2rem 4rem;
+  width: calc(100% - 8rem);
+  height: 14rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.elegir-idioma-CdY .auto-group-pmce-Xmc .auto-group-152r-3zr {
+  margin-right: 4.8rem;
+  box-sizing: border-box;
+  padding: 2.7rem 2.85rem 1.9rem 2.45rem;
+  width: 12.3rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #38b6ff;
+  border-radius: 0.7rem;
+  flex-shrink: 0;
+}
+.elegir-idioma-CdY .auto-group-pmce-Xmc .auto-group-152r-3zr .ellipse-45-mR4 {
+  margin: 0rem 0.6rem 2.9rem 0rem;
+  width: 4.5rem;
+  height: 4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.elegir-idioma-CdY .auto-group-pmce-Xmc .auto-group-152r-3zr .commencer-le-franais-Vrr {
+  max-width: 7rem;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.elegir-idioma-CdY .auto-group-pmce-Xmc .auto-group-dojy-atJ {
+  box-sizing: border-box;
+  padding: 2.7rem 1.9rem 1.9rem 2.3rem;
+  width: 12.4rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #38b6ff;
+  border-radius: 0.7rem;
+  flex-shrink: 0;
+}
+.elegir-idioma-CdY .auto-group-pmce-Xmc .auto-group-dojy-atJ .ellipse-46-W1G {
+  margin: 0rem 2.1rem 3.1rem 2.3rem;
+  width: calc(100% - 4.4rem);
+  height: 3.8rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-46-bg.png');
+  border-radius: 1.9rem;
+  flex-shrink: 0;
+}
+.elegir-idioma-CdY .auto-group-pmce-Xmc .auto-group-dojy-atJ .beginnen-sie-mit-deutsch-Pqk {
+  max-width: 8.2rem;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.elegir-idioma-CdY .auto-group-aw8a-skv {
+  margin: 0rem 13.3rem 0rem 11.9rem;
+  box-sizing: border-box;
+  padding: 2.1rem 3rem 2.9rem 3.1rem;
+  width: calc(100% - 25.2rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #38b6ff;
+  border-radius: 0.7rem;
+  flex-shrink: 0;
+}
+.elegir-idioma-CdY .auto-group-aw8a-skv .ellipse-47-iWe {
+  margin: 0rem 0.5rem 3.8rem 0rem;
+  width: 3.9rem;
+  height: 3.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.elegir-idioma-CdY .auto-group-aw8a-skv .start-english-96A {
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}

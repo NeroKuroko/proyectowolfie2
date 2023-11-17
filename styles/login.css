@@ -1,0 +1,206 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 37.5rem;
+}.login-NHx {
+  box-sizing: border-box;
+  padding: 0.9rem 1.2rem 0.8rem 2.9rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #000000;
+}
+.login-NHx .auto-group-veka-gpS {
+  margin-left: 28.1rem;
+  width: 5.3rem;
+  height: 5.9rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.login-NHx .auto-group-veka-gpS .rectangle-105-Rn2 {
+  width: 3.5rem;
+  height: 3.3rem;
+  position: absolute;
+  left: 0.8rem;
+  top: 1.2rem;
+  background-color: #3396f2;
+}
+.login-NHx .auto-group-veka-gpS .hgj-5-xX4 {
+  width: 5.3rem;
+  height: 5.9rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.login-NHx .bienvenidos-Jav {
+  margin: 0rem 2.8rem 2.8rem 0rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #38b6ff;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.login-NHx .teaching-to-wolves-c5p {
+  margin: 0rem 1.7rem 7.1rem 0rem;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #38b6ff;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.login-NHx .auto-group-emjz-vMQ {
+  margin: 0rem 1.7rem 1.2rem 0rem;
+  height: 7.6rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.login-NHx .auto-group-emjz-vMQ .auto-group-jsls-eYJ {
+  margin-right: 4.7rem;
+  box-sizing: border-box;
+  padding: 1.4rem 1rem 1.5rem 1rem;
+  height: 100%;
+  border: solid 0.2rem #38b6ff;
+  background-color: #470dc4;
+  border-radius: 3.8rem;
+  flex-shrink: 0;
+}
+.login-NHx .auto-group-emjz-vMQ .auto-group-jsls-eYJ .baselinepersonwhite24dp-22-n8i {
+  width: 5.6rem;
+  height: 4.7rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.login-NHx .auto-group-emjz-vMQ .auto-group-1nfc-hFg {
+  margin-right: 4.1rem;
+  box-sizing: border-box;
+  padding: 1.4rem 1.1rem 1.5rem 1.2rem;
+  height: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-28.png');
+  flex-shrink: 0;
+}
+.login-NHx .auto-group-emjz-vMQ .auto-group-1nfc-hFg .baselinepersonwhite24dp-23-dQE {
+  width: 5.4rem;
+  height: 4.7rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.login-NHx .auto-group-emjz-vMQ .auto-group-blgi-wvi {
+  box-sizing: border-box;
+  padding: 1rem 1rem 1.9rem 1rem;
+  height: 100%;
+  border: solid 0.2rem #38b6ff;
+  background-color: #470dc4;
+  border-radius: 3.8rem;
+  flex-shrink: 0;
+}
+.login-NHx .auto-group-emjz-vMQ .auto-group-blgi-wvi .baselinepersonwhite24dp-24-HUn {
+  width: 5.6rem;
+  height: 4.7rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.login-NHx .auto-group-l2ps-PXp {
+  margin: 0rem 3.25rem 2.9rem 1.65rem;
+  width: calc(100% - 4.9rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.login-NHx .auto-group-l2ps-PXp .persona-1-7ii {
+  margin-right: 8.6rem;
+  text-align: center;
+  font-size: 0.8rem;
+  font-weight: 900;
+  line-height: 1.2125;
+  color: #38b6ff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.login-NHx .auto-group-l2ps-PXp .persona-2-EoL {
+  margin-right: 7.9rem;
+  text-align: center;
+  font-size: 0.8rem;
+  font-weight: 900;
+  line-height: 1.2125;
+  color: #38b6ff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.login-NHx .auto-group-l2ps-PXp .persona-3-NPk {
+  text-align: center;
+  font-size: 0.8rem;
+  font-weight: 900;
+  line-height: 1.2125;
+  color: #38b6ff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.login-NHx .auto-group-dyxt-uPg {
+  margin: 0rem 13.4rem 1.5rem 12.3rem;
+  box-sizing: border-box;
+  padding: 1.5rem;
+  width: calc(100% - 25.7rem);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/addcountcircle.png');
+  flex-shrink: 0;
+}
+.login-NHx .auto-group-dyxt-uPg .addcounticon-2z6 {
+  width: 4.7rem;
+  height: 4.6rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.login-NHx .agregar-xcr {
+  margin: 0rem 1.3rem 19.1rem 0rem;
+  text-align: center;
+  font-size: 0.8rem;
+  font-weight: 900;
+  line-height: 1.2125;
+  color: #38b6ff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.login-NHx .derechos-reservados-unity-team-5Bg {
+  margin-left: 17.6rem;
+  text-align: center;
+  font-size: 0.8rem;
+  font-weight: 900;
+  line-height: 1.2125;
+  color: #38b6ff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
